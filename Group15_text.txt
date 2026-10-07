@@ -1,3 +1,6 @@
+
 IS316 - Group15
 
 Muneirah alsaeed:git helps track our project progress
+
+Wasan aseery : Git allows us to collaborate on the work .
