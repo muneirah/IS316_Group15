@@ -6,3 +6,5 @@ Muneirah alsaeed:git helps track our project progress
 Wasan aseery : Git allows us to collaborate on the work .
 
 munirah al - alshaikh : git allows us to see previous versions
+
+zohor almansour : git records who made each change and when it was made
